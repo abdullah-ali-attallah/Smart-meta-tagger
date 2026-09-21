@@ -1,0 +1,13 @@
+com/smarttagger/model/MediaItem.class
+com/smarttagger/view/MainApp$1.class
+com/smarttagger/exception/UnsupportedMediaException.class
+com/smarttagger/view/MainApp$2.class
+com/smarttagger/view/MainApp.class
+com/smarttagger/controller/TagController.class
+com/smarttagger/controller/TagController$ResultCallback.class
+com/smarttagger/controller/AIService.class
+com/smarttagger/model/ImageItem.class
+com/smarttagger/model/VideoItem.class
+com/smarttagger/view/LoginApp.class
+com/smarttagger/exception/EmptyDescriptionException.class
+com/smarttagger/db/DatabaseManager.class
